@@ -11,3 +11,5 @@ require_relative './class_methods_module.rb'
       @name = name
     end
   end =end
+  
+  
